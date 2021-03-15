@@ -20,6 +20,6 @@ steps:
     location: 'East US 2'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/sw-lyons/Automateio-AzureRM-Pipeline/main/CreateWebApp/azuredeploy.json'
-    overrideParameters: '-projectName FirstTry-ARM'
+    overrideParameters: '-projectName demoARM'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
